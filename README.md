@@ -1,6 +1,6 @@
-###  🎈 Olá! Eu me chamo Augusto
+###                    🎈 Olá Mundo! Eu me chamo [Augusto](https://bit.ly/3QlK61E)
 --------------------------------
-<img align="left" height="220" src="https://cdn.discordapp.com/emojis/953517680235790336.webp?size=128&quality=lossless"/>
+<img align="left" height="220" src="https://miro.medium.com/max/2400/1*P0RngeWM4C33v5p3lBs2vw.png"/>
 
 
 
@@ -14,7 +14,7 @@ Sou um pequeno desenvolvedor de códigos, e gosto de usar a linguagem Python par
   ----------------------------------------------------------------------------------------------------------
 </p>
     
-<a href="https://www.youtube.com/mand3loriano" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://bit.ly/3QlK61E" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/guto.busetti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:guto.busetti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/XbpmedTSez"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/></a>
