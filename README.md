@@ -2,17 +2,13 @@
 --------------------------------
 <img align="left" height="220" src="https://miro.medium.com/max/2400/1*P0RngeWM4C33v5p3lBs2vw.png"/>
 
+Sou um desenvolvedor de códigos. Gosto de usar a linguagem python para meus trabalhos, mas também gosto de JavaScript.
+Atualmente desenvolvo: Sites, aplicações, automações e outros sistemas.
 
-
-<p> 
-Sou um pequeno desenvolvedor de códigos, e gosto de usar a linguagem Python para meus projetos.</p>
-<p> 
-   Sou formado em programação, até agora minha linguagem preferida e predominante e o Python,
-    
-   Gosto muito de música, guitarra, tecnologia e diversas outras coisas.
+Gosto muito de música, tecnologia e non-sense. E uma dica assista wandinha tá muito bom hauhau!
     
   ----------------------------------------------------------------------------------------------------------
-</p>
+
     
 <a href="https://bit.ly/3QlK61E" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/guto.busetti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
