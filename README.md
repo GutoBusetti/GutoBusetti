@@ -1,18 +1,26 @@
-###                    🎈 Olá Mundo! Eu me chamo [Augusto](https://bit.ly/3QlK61E)
---------------------------------
-<img align="left" height="220" src="https://miro.medium.com/max/2400/1*P0RngeWM4C33v5p3lBs2vw.png"/>
+# Olá, eu sou Augusto
 
-Sou um desenvolvedor de códigos. Gosto de usar a linguagem python para meus trabalhos, mas também gosto de JavaScript.
-Atualmente desenvolvo: Sites, aplicações, automações e outros sistemas.
+![Banner](https://blog.csptecnologia.com/wp-content/uploads/2021/03/As-9-linguagens-de-programacao-em-alta-no-mercado-1.png)
 
-Gosto muito de música, tecnologia e non-sense. E uma dica assista wandinha tá muito bom hauhau!
-    
-  ----------------------------------------------------------------------------------------------------------
+## Sobre mim
+Sou um programador back-end apaixonado por tecnologia, com foco em desenvolvimento de software e hardware. Tenho experiência com diversas linguagens de programação, incluindo Python, JavaScript, HTML e CSS. Estou sempre em busca de novos desafios e aprendizados, e busco contribuir para projetos inovadores e impactantes.
 
-    
+## Conhecimentos
+
+- 💻 Linguagens: Python, JavaScript, .Lua, HTML, CSS.
+- 🛠 Frameworks: Flask, Django, PyautoGUI.
+- 🗄 Banco de dados: MySQL, MongoDB.
+- 🚀 Outras habilidades: Mídias e áudio-vídeo, marketing estratégico.
+
+## Projetos
+
+- [Laboratório M3](https://m3lab.tech): Um projeto feito com carinho! Ajuda e suporte para programadores.
+- [Lara](https://discord.gg/rJSPKG8WxB): A Lara, uma inteligência artificial. Participo como sócio do projeto.
+- [TrheeCloud](): Um hospedagem para seu projeto! PS: Projeto em manutenção.
+
+## Redes Sociais
+
 <a href="https://bit.ly/3QlK61E" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/guto.busetti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:guto.busetti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/XbpmedTSez"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/></a>
-
-<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuploads.jovemnerd.com.br%2Fwp-content%2Fuploads%2F2022%2F09%2Fwandina_netflix_data_de_estreia__ehfs2y.jpg&f=1&nofb=1&ipt=9fc71f902d6bc4417bff72ec865a007bc8177f54d2132000cc4573de664ea41c&ipo=images'>
+<a href="https://discord.gg/XbpmedTSez"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/></a>
