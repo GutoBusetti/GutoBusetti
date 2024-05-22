@@ -14,9 +14,10 @@ Sou um programador back-end apaixonado por tecnologia, com foco em desenvolvimen
 
 ## Projetos
 
-- [Laboratório M3](https://m3lab.tech): Um projeto feito com carinho! Ajuda e suporte para programadores.
+- [Labcode](https://m3lab.tech): Um projeto feito com carinho! Ajuda e suporte para programadores.
 - [Lara](https://discord.gg/rJSPKG8WxB): A Lara, uma inteligência artificial. Participo como sócio do projeto.
-- [TrheeCloud](): Um hospedagem para seu projeto! PS: Projeto em manutenção.
+- [TrheeCloud](): Sua hospedagem para seus projeto! PS: Projeto em manutenção.
+- [Laboratório M3](https://youtube.com/mand3loriano) Comunidade M3. Cursos de programação e conteúdo.
 
 ## Redes Sociais
 
